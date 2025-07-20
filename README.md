@@ -27,7 +27,7 @@ This project demonstrates my skills in building scalable networked applications 
 ### Run the server
 
 ```bash
-git clone https://github.com/<your-username>/redist.git
+git clone https://github.com/kamalnayan10/redist.git
 cd redist
 cargo run
 ```
